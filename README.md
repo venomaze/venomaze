@@ -1,5 +1,2 @@
-<div align="center">
-  <img src="https://github.com/venomaze/venomaze/blob/master/baby-yoda.gif?raw=true">
-  <br>
-  <p><b>Developer</b> by day ☀️ <b>Bookworm</b> by night 🌑</p>
-</div>
+> **Privacy** is not an option, and it shouldn't be the price we accept for just getting on the Internet.
+> – **Gary Kovacs**
